@@ -1,0 +1,6 @@
+payer_id,payer_name,payer_type
+PY01,Federal Medicare,Government
+PY02,State Medicaid,Government
+PY03,Northstar Health,Commercial
+PY04,Evergreen Health Plan,Commercial
+PY05,Summit Mutual,Commercial

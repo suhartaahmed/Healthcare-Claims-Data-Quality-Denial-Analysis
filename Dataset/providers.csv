@@ -1,0 +1,9 @@
+provider_id,provider_name,specialty,clinic_location
+DR01,Dr. Adams,Family Medicine,Austin
+DR02,Dr. Brooks,Family Medicine,Austin
+DR03,Dr. Chen,Cardiology,Dallas
+DR04,Dr. Davis,Internal Medicine,Dallas
+DR05,Dr. Evans,Internal Medicine,Houston
+DR06,Dr. Foster,Orthopedics,Houston
+DR07,Dr. Garcia,Family Medicine,Austin
+DR08,Dr. Hill,Radiology,Dallas
